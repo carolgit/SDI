@@ -15,7 +15,7 @@ Server functionalities:
 
 - [x] Basic service sets as WFS and WMS
 - [x] Allow apply a filter in Spatial Things
-- [ ] Allow executing operations as Intersect, Contains, and others between multiple spatial things
+- [ ] Allow executing operations as Intersect, Contains, and others
 - [x] Allow reprojection by changing a parameter on URI
 - [x] Contains a uniform URI organization adopting web semantic links 
 - [x] Support basic data formats as Shapefile, GeoTIFF, CSV, KML, Spatial Database 
@@ -39,7 +39,7 @@ Server functionalities:
 
 - [x] Basic service sets as WFS and WMS
 - [x] Allow apply a filter in Spatial Things
-- [ ] Allow executing operations as Intersect, Contains, and others between multiple spatial things
+- [ ] Allow executing operations as Intersect, Contains, and others
 - [x] Allow reprojection by changing a parameter on URI
 - [x] Contains a uniform URI organization adopting web semantic links 
 - [x] Support basic data formats as Shapefile, GeoTIFF, CSV, KML, Spatial Database 
@@ -63,7 +63,7 @@ Server functionalities:
 
 - [ ] Basic service sets as WFS and WMS
 - [ ] Allow apply a filter in Spatial Things
-- [ ] Allow executing operations as Intersect, Contains, and others between multiple spatial things
+- [ ] Allow executing operations as Intersect, Contains, and others
 - [ ] Allow reprojection by changing a parameter on URI
 - [ ] Contains a uniform URI organization adopting web semantic links 
 - [ ] Support basic data formats as Shapefile, GeoTIFF, CSV, KML, Spatial Database 
@@ -87,7 +87,7 @@ Server functionalities:
 
 - [x] Basic service sets as WFS and WMS
 - [x] Allow apply a filter in Spatial Things
-- [ ] Allow executing operations as Intersect, Contains, and others between multiple spatial things
+- [ ] Allow executing operations as Intersect, Contains, and others
 - [x] Allow reprojection by changing a parameter on URI
 - [x] Contains a uniform URI organization adopting web semantic links 
 - [x] Support basic data formats as Shapefile, GeoTIFF, CSV, KML, Spatial Database 
@@ -111,7 +111,7 @@ Server functionalities:
 
 - [ ] Basic service sets as WFS and WMS
 - [ ] Allow apply a filter in Spatial Things
-- [ ] Allow executing operations as Intersect, Contains, and others between multiple spatial things
+- [ ] Allow executing operations as Intersect, Contains, and others
 - [ ] Allow reprojection by changing a parameter on URI
 - [ ] Contains a uniform URI organization adopting web semantic links 
 - [ ] Support basic data formats as Shapefile, GeoTIFF, CSV, KML, Spatial Database 
@@ -135,7 +135,7 @@ Server functionalities:
 
 - [x] Basic service sets as WFS and WMS
 - [x] Allow apply a filter in Spatial Things
-- [ ] Allow executing operations as Intersect, Contains, and others between multiple spatial things
+- [ ] Allow executing operations as Intersect, Contains, and others
 - [x] Allow reprojection by changing a parameter on URI
 - [x] Contains a uniform URI organization adopting web semantic links 
 - [x] Support basic data formats as Shapefile, GeoTIFF, CSV, KML, Spatial Database 
@@ -159,7 +159,7 @@ Server functionalities:
 
 - [ ] Basic service sets as WFS and WMS
 - [ ] Allow apply a filter in Spatial Things
-- [ ] Allow executing operations as Intersect, Contains, and others between multiple spatial things
+- [ ] Allow executing operations as Intersect, Contains, and others
 - [ ] Allow reprojection by changing a parameter on URI
 - [ ] Contains a uniform URI organization adopting web semantic links 
 - [ ] Support basic data formats as Shapefile, GeoTIFF, CSV, KML, Spatial Database 
@@ -183,7 +183,7 @@ Server functionalities:
 
 - [ ] Basic service sets as WFS and WMS
 - [ ] Allow apply a filter in Spatial Things
-- [ ] Allow executing operations as Intersect, Contains, and others between multiple spatial things
+- [ ] Allow executing operations as Intersect, Contains, and others
 - [ ] Allow reprojection by changing a parameter on URI
 - [ ] Contains a uniform URI organization adopting web semantic links 
 - [ ] Support basic data formats as Shapefile, GeoTIFF, CSV, KML, Spatial Database 
@@ -207,7 +207,7 @@ Server functionalities:
 
 - [ ] Basic service sets as WFS and WMS
 - [ ] Allow apply a filter in Spatial Things
-- [ ] Allow executing operations as Intersect, Contains, and others between multiple spatial things
+- [ ] Allow executing operations as Intersect, Contains, and others
 - [ ] Allow reprojection by changing a parameter on URI
 - [ ] Contains a uniform URI organization adopting web semantic links 
 - [ ] Support basic data formats as Shapefile, GeoTIFF, CSV, KML, Spatial Database 
@@ -231,7 +231,7 @@ Server functionalities:
 
 - [x] Basic service sets as WFS and WMS
 - [x] Allow apply a filter in Spatial Things
-- [ ] Allow executing operations as Intersect, Contains, and others between multiple spatial things
+- [ ] Allow executing operations as Intersect, Contains, and others
 - [x] Allow reprojection by changing a parameter on URI
 - [x] Contains a uniform URI organization adopting web semantic links 
 - [x] Support basic data formats as Shapefile, GeoTIFF, CSV, KML, Spatial Database 
@@ -255,7 +255,7 @@ Server functionalities:
 
 - [x] Basic service sets as WFS and WMS
 - [x] Allow apply a filter in Spatial Things
-- [ ] Allow executing operations as Intersect, Contains, and others between multiple spatial things
+- [ ] Allow executing operations as Intersect, Contains, and others
 - [x] Allow reprojection by changing a parameter on URI
 - [x] Contains a uniform URI organization adopting web semantic links 
 - [x] Support basic data formats as Shapefile, GeoTIFF, CSV, KML, Spatial Database 
@@ -279,7 +279,7 @@ Server functionalities:
 
 - [x] Basic service sets as WFS and WMS
 - [x] Allow apply a filter in Spatial Things
-- [ ] Allow executing operations as Intersect, Contains, and others between multiple spatial things
+- [ ] Allow executing operations as Intersect, Contains, and others
 - [x] Allow reprojection by changing a parameter on URI
 - [x] Contains a uniform URI organization adopting web semantic links 
 - [x] Support basic data formats as Shapefile, GeoTIFF, CSV, KML, Spatial Database 
@@ -303,7 +303,7 @@ Server functionalities:
 
 - [ ] Basic service sets as WFS and WMS
 - [ ] Allow apply a filter in Spatial Things
-- [ ] Allow executing operations as Intersect, Contains, and others between multiple spatial things
+- [ ] Allow executing operations as Intersect, Contains, and others
 - [ ] Allow reprojection by changing a parameter on URI
 - [ ] Contains a uniform URI organization adopting web semantic links 
 - [ ] Support basic data formats as Shapefile, GeoTIFF, CSV, KML, Spatial Database 
@@ -327,7 +327,7 @@ Server functionalities:
 
 - [x] Basic service sets as WFS and WMS
 - [x] Allow apply a filter in Spatial Things
-- [ ] Allow executing operations as Intersect, Contains, and others between multiple spatial things
+- [ ] Allow executing operations as Intersect, Contains, and others
 - [x] Allow reprojection by changing a parameter on URI
 - [x] Contains a uniform URI organization adopting web semantic links 
 - [x] Support basic data formats as Shapefile, GeoTIFF, CSV, KML, Spatial Database 
@@ -351,7 +351,7 @@ Server functionalities:
 
 - [ ] Basic service sets as WFS and WMS
 - [ ] Allow apply a filter in Spatial Things
-- [ ] Allow executing operations as Intersect, Contains, and others between multiple spatial things
+- [ ] Allow executing operations as Intersect, Contains, and others
 - [ ] Allow reprojection by changing a parameter on URI
 - [ ] Contains a uniform URI organization adopting web semantic links 
 - [ ] Support basic data formats as Shapefile, GeoTIFF, CSV, KML, Spatial Database 
@@ -375,7 +375,7 @@ Server functionalities:
 
 - [ ] Basic service sets as WFS and WMS
 - [ ] Allow apply a filter in Spatial Things
-- [ ] Allow executing operations as Intersect, Contains, and others between multiple spatial things
+- [ ] Allow executing operations as Intersect, Contains, and others
 - [ ] Allow reprojection by changing a parameter on URI
 - [ ] Contains a uniform URI organization adopting web semantic links 
 - [ ] Support basic data formats as Shapefile, GeoTIFF, CSV, KML, Spatial Database 
@@ -398,7 +398,7 @@ Server functionalities:
 
 - [ ] Basic service sets as WFS and WMS
 - [ ] Allow apply a filter in Spatial Things
-- [ ] Allow executing operations as Intersect, Contains, and others between multiple spatial things
+- [ ] Allow executing operations as Intersect, Contains, and others
 - [ ] Allow reprojection by changing a parameter on URI
 - [ ] Contains a uniform URI organization adopting web semantic links 
 - [ ] Support basic data formats as Shapefile, GeoTIFF, CSV, KML, Spatial Database 
@@ -421,7 +421,7 @@ Server functionalities:
 
 - [ ] Basic service sets as WFS and WMS
 - [ ] Allow apply a filter in Spatial Things
-- [ ] Allow executing operations as Intersect, Contains, and others between multiple spatial things
+- [ ] Allow executing operations as Intersect, Contains, and others
 - [ ] Allow reprojection by changing a parameter on URI
 - [ ] Contains a uniform URI organization adopting web semantic links 
 - [ ] Support basic data formats as Shapefile, GeoTIFF, CSV, KML, Spatial Database 
@@ -445,7 +445,7 @@ Server functionalities:
 
 - [x] Basic service sets as WFS and WMS
 - [x] Allow apply a filter in Spatial Things
-- [ ] Allow executing operations as Intersect, Contains, and others between multiple spatial things
+- [ ] Allow executing operations as Intersect, Contains, and others
 - [x] Allow reprojection by changing a parameter on URI
 - [x] Contains a uniform URI organization adopting web semantic links 
 - [x] Support basic data formats as Shapefile, GeoTIFF, CSV, KML, Spatial Database 
@@ -469,7 +469,7 @@ Server functionalities:
 
 - [ ] Basic service sets as WFS and WMS
 - [ ] Allow apply a filter in Spatial Things
-- [ ] Allow executing operations as Intersect, Contains, and others between multiple spatial things
+- [ ] Allow executing operations as Intersect, Contains, and others
 - [ ] Allow reprojection by changing a parameter on URI
 - [ ] Contains a uniform URI organization adopting web semantic links 
 - [ ] Support basic data formats as Shapefile, GeoTIFF, CSV, KML, Spatial Database 
@@ -493,7 +493,7 @@ Server functionalities:
 
 - [x] Basic service sets as WFS and WMS
 - [x] Allow apply a filter in Spatial Things
-- [ ] Allow executing operations as Intersect, Contains, and others between multiple spatial things
+- [ ] Allow executing operations as Intersect, Contains, and others
 - [x] Allow reprojection by changing a parameter on URI
 - [x] Contains a uniform URI organization adopting web semantic links 
 - [x] Support basic data formats as Shapefile, GeoTIFF, CSV, KML, Spatial Database 
