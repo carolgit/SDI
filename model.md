@@ -11,7 +11,7 @@ Server used for:
 - [x] Save spatial data indirectly by Desktop GIS
 - [x] Save spatial data directly by User interaction
 
-Server Functionalities:
+Server used functionalities:
 
 - [x] Basic service sets as WFS and WMS
 - [x] Allow apply a filter in Spatial Things
@@ -35,7 +35,7 @@ Server used for:
 - [x] Save spatial data indirectly by Desktop GIS
 - [x] Save spatial data directly by User interaction
 
-Server Functionalities:
+Server used functionalities:
 
 - [x] Basic service sets as WFS and WMS
 - [x] Allow apply a filter in Spatial Things
@@ -59,7 +59,7 @@ Server used for:
 - [ ] Save spatial data indirectly by Desktop GIS
 - [ ] Save spatial data directly by User interaction
 
-Server Functionalities:
+Server used functionalities:
 
 - [ ] Basic service sets as WFS and WMS
 - [ ] Allow apply a filter in Spatial Things
@@ -83,7 +83,7 @@ Server used for:
 - [x] Save spatial data indirectly by Desktop GIS
 - [x] Save spatial data directly by User interaction
 
-Server Functionalities:
+Server used functionalities:
 
 - [x] Basic service sets as WFS and WMS
 - [x] Allow apply a filter in Spatial Things
@@ -107,7 +107,7 @@ Server used for:
 - [ ] Save spatial data indirectly by Desktop GIS
 - [ ] Save spatial data directly by User interaction
 
-Server Functionalities:
+Server used functionalities:
 
 - [ ] Basic service sets as WFS and WMS
 - [ ] Allow apply a filter in Spatial Things
@@ -131,7 +131,7 @@ Server used for:
 - [x] Save spatial data indirectly by Desktop GIS
 - [x] Save spatial data directly by User interaction
 
-Server Functionalities:
+Server used functionalities:
 
 - [x] Basic service sets as WFS and WMS
 - [x] Allow apply a filter in Spatial Things
@@ -155,7 +155,7 @@ Server used for:
 - [ ] Save spatial data indirectly by Desktop GIS
 - [ ] Save spatial data directly by User interaction
 
-Server Functionalities:
+Server used functionalities:
 
 - [ ] Basic service sets as WFS and WMS
 - [ ] Allow apply a filter in Spatial Things
@@ -179,7 +179,7 @@ Server used for:
 - [ ] Save spatial data indirectly by Desktop GIS
 - [ ] Save spatial data directly by User interaction
 
-Server Functionalities:
+Server used functionalities:
 
 - [ ] Basic service sets as WFS and WMS
 - [ ] Allow apply a filter in Spatial Things
@@ -203,7 +203,7 @@ Server used for:
 - [ ] Save spatial data indirectly by Desktop GIS
 - [ ] Save spatial data directly by User interaction
 
-Server Functionalities:
+Server used functionalities:
 
 - [ ] Basic service sets as WFS and WMS
 - [ ] Allow apply a filter in Spatial Things
@@ -227,7 +227,7 @@ Server used for:
 - [x] Save spatial data indirectly by Desktop GIS
 - [x] Save spatial data directly by User interaction
 
-Server Functionalities:
+Server used functionalities:
 
 - [x] Basic service sets as WFS and WMS
 - [x] Allow apply a filter in Spatial Things
@@ -251,7 +251,7 @@ Server used for:
 - [x] Save spatial data indirectly by Desktop GIS
 - [x] Save spatial data directly by User interaction
 
-Server Functionalities:
+Server used functionalities:
 
 - [x] Basic service sets as WFS and WMS
 - [x] Allow apply a filter in Spatial Things
@@ -275,7 +275,7 @@ Server used for:
 - [x] Save spatial data indirectly by Desktop GIS
 - [x] Save spatial data directly by User interaction
 
-Server Functionalities:
+Server used functionalities:
 
 - [x] Basic service sets as WFS and WMS
 - [x] Allow apply a filter in Spatial Things
@@ -299,7 +299,7 @@ Server used for:
 - [ ] Save spatial data indirectly by Desktop GIS
 - [ ] Save spatial data directly by User interaction
 
-Server Functionalities:
+Server used functionalities:
 
 - [ ] Basic service sets as WFS and WMS
 - [ ] Allow apply a filter in Spatial Things
@@ -323,7 +323,7 @@ Server used for:
 - [x] Save spatial data indirectly by Desktop GIS
 - [x] Save spatial data directly by User interaction
 
-Server Functionalities:
+Server used functionalities:
 
 - [x] Basic service sets as WFS and WMS
 - [x] Allow apply a filter in Spatial Things
@@ -347,7 +347,7 @@ Server used for:
 - [ ] Save spatial data indirectly by Desktop GIS
 - [ ] Save spatial data directly by User interaction
 
-Server Functionalities:
+Server used functionalities:
 
 - [ ] Basic service sets as WFS and WMS
 - [ ] Allow apply a filter in Spatial Things
@@ -371,7 +371,7 @@ Server used for:
 - [ ] Save spatial data indirectly by Desktop GIS
 - [ ] Save spatial data directly by User interaction
 
-Server Functionalities:
+Server used functionalities:
 
 - [ ] Basic service sets as WFS and WMS
 - [ ] Allow apply a filter in Spatial Things
@@ -394,7 +394,7 @@ Server used for:
 - [ ] Save spatial data indirectly by Desktop GIS
 - [ ] Save spatial data directly by User interaction
 
-Server Functionalities:
+Server used functionalities:
 
 - [ ] Basic service sets as WFS and WMS
 - [ ] Allow apply a filter in Spatial Things
@@ -417,7 +417,7 @@ Server used for:
 - [ ] Save spatial data indirectly by Desktop GIS
 - [ ] Save spatial data directly by User interaction
 
-Server Functionalities:
+Server used functionalities:
 
 - [ ] Basic service sets as WFS and WMS
 - [ ] Allow apply a filter in Spatial Things
@@ -441,7 +441,7 @@ Server used for:
 - [x] Save spatial data indirectly by Desktop GIS
 - [x] Save spatial data directly by User interaction
 
-Server Functionalities:
+Server used functionalities:
 
 - [x] Basic service sets as WFS and WMS
 - [x] Allow apply a filter in Spatial Things
@@ -465,7 +465,7 @@ Server used for:
 - [ ] Save spatial data indirectly by Desktop GIS
 - [ ] Save spatial data directly by User interaction
 
-Server Functionalities:
+Server used functionalities:
 
 - [ ] Basic service sets as WFS and WMS
 - [ ] Allow apply a filter in Spatial Things
@@ -489,7 +489,7 @@ Server used for:
 - [x] Save spatial data indirectly by Desktop GIS
 - [x] Save spatial data directly by User interaction
 
-Server Functionalities:
+Server used functionalities:
 
 - [x] Basic service sets as WFS and WMS
 - [x] Allow apply a filter in Spatial Things
