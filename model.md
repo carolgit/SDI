@@ -11,11 +11,11 @@ Server used for:
 - [x] Save spatial data indirectly by Desktop GIS
 - [x] Save spatial data directly by User interaction
 
-Server used functionalities:
+Server functionalities:
 
 - [x] Basic service sets as WFS and WMS
 - [x] Allow apply a filter in Spatial Things
-- [ ] Allow executing operations as Intersect, Contains, and others
+- [ ] Allow executing operations as Intersect, Contains, and others between multiple spatial things
 - [x] Allow reprojection by changing a parameter on URI
 - [x] Contains a uniform URI organization adopting web semantic links 
 - [x] Support basic data formats as Shapefile, GeoTIFF, CSV, KML, Spatial Database 
@@ -35,11 +35,11 @@ Server used for:
 - [x] Save spatial data indirectly by Desktop GIS
 - [x] Save spatial data directly by User interaction
 
-Server used functionalities:
+Server functionalities:
 
 - [x] Basic service sets as WFS and WMS
 - [x] Allow apply a filter in Spatial Things
-- [ ] Allow executing operations as Intersect, Contains, and others
+- [ ] Allow executing operations as Intersect, Contains, and others between multiple spatial things
 - [x] Allow reprojection by changing a parameter on URI
 - [x] Contains a uniform URI organization adopting web semantic links 
 - [x] Support basic data formats as Shapefile, GeoTIFF, CSV, KML, Spatial Database 
@@ -59,11 +59,11 @@ Server used for:
 - [ ] Save spatial data indirectly by Desktop GIS
 - [ ] Save spatial data directly by User interaction
 
-Server used functionalities:
+Server functionalities:
 
 - [ ] Basic service sets as WFS and WMS
 - [ ] Allow apply a filter in Spatial Things
-- [ ] Allow executing operations as Intersect, Contains, and others
+- [ ] Allow executing operations as Intersect, Contains, and others between multiple spatial things
 - [ ] Allow reprojection by changing a parameter on URI
 - [ ] Contains a uniform URI organization adopting web semantic links 
 - [ ] Support basic data formats as Shapefile, GeoTIFF, CSV, KML, Spatial Database 
@@ -83,11 +83,11 @@ Server used for:
 - [x] Save spatial data indirectly by Desktop GIS
 - [x] Save spatial data directly by User interaction
 
-Server used functionalities:
+Server functionalities:
 
 - [x] Basic service sets as WFS and WMS
 - [x] Allow apply a filter in Spatial Things
-- [ ] Allow executing operations as Intersect, Contains, and others
+- [ ] Allow executing operations as Intersect, Contains, and others between multiple spatial things
 - [x] Allow reprojection by changing a parameter on URI
 - [x] Contains a uniform URI organization adopting web semantic links 
 - [x] Support basic data formats as Shapefile, GeoTIFF, CSV, KML, Spatial Database 
@@ -107,11 +107,11 @@ Server used for:
 - [ ] Save spatial data indirectly by Desktop GIS
 - [ ] Save spatial data directly by User interaction
 
-Server used functionalities:
+Server functionalities:
 
 - [ ] Basic service sets as WFS and WMS
 - [ ] Allow apply a filter in Spatial Things
-- [ ] Allow executing operations as Intersect, Contains, and others
+- [ ] Allow executing operations as Intersect, Contains, and others between multiple spatial things
 - [ ] Allow reprojection by changing a parameter on URI
 - [ ] Contains a uniform URI organization adopting web semantic links 
 - [ ] Support basic data formats as Shapefile, GeoTIFF, CSV, KML, Spatial Database 
@@ -131,11 +131,11 @@ Server used for:
 - [x] Save spatial data indirectly by Desktop GIS
 - [x] Save spatial data directly by User interaction
 
-Server used functionalities:
+Server functionalities:
 
 - [x] Basic service sets as WFS and WMS
 - [x] Allow apply a filter in Spatial Things
-- [ ] Allow executing operations as Intersect, Contains, and others
+- [ ] Allow executing operations as Intersect, Contains, and others between multiple spatial things
 - [x] Allow reprojection by changing a parameter on URI
 - [x] Contains a uniform URI organization adopting web semantic links 
 - [x] Support basic data formats as Shapefile, GeoTIFF, CSV, KML, Spatial Database 
@@ -155,11 +155,11 @@ Server used for:
 - [ ] Save spatial data indirectly by Desktop GIS
 - [ ] Save spatial data directly by User interaction
 
-Server used functionalities:
+Server functionalities:
 
 - [ ] Basic service sets as WFS and WMS
 - [ ] Allow apply a filter in Spatial Things
-- [ ] Allow executing operations as Intersect, Contains, and others
+- [ ] Allow executing operations as Intersect, Contains, and others between multiple spatial things
 - [ ] Allow reprojection by changing a parameter on URI
 - [ ] Contains a uniform URI organization adopting web semantic links 
 - [ ] Support basic data formats as Shapefile, GeoTIFF, CSV, KML, Spatial Database 
@@ -179,11 +179,11 @@ Server used for:
 - [ ] Save spatial data indirectly by Desktop GIS
 - [ ] Save spatial data directly by User interaction
 
-Server used functionalities:
+Server functionalities:
 
 - [ ] Basic service sets as WFS and WMS
 - [ ] Allow apply a filter in Spatial Things
-- [ ] Allow executing operations as Intersect, Contains, and others
+- [ ] Allow executing operations as Intersect, Contains, and others between multiple spatial things
 - [ ] Allow reprojection by changing a parameter on URI
 - [ ] Contains a uniform URI organization adopting web semantic links 
 - [ ] Support basic data formats as Shapefile, GeoTIFF, CSV, KML, Spatial Database 
@@ -203,11 +203,11 @@ Server used for:
 - [ ] Save spatial data indirectly by Desktop GIS
 - [ ] Save spatial data directly by User interaction
 
-Server used functionalities:
+Server functionalities:
 
 - [ ] Basic service sets as WFS and WMS
 - [ ] Allow apply a filter in Spatial Things
-- [ ] Allow executing operations as Intersect, Contains, and others
+- [ ] Allow executing operations as Intersect, Contains, and others between multiple spatial things
 - [ ] Allow reprojection by changing a parameter on URI
 - [ ] Contains a uniform URI organization adopting web semantic links 
 - [ ] Support basic data formats as Shapefile, GeoTIFF, CSV, KML, Spatial Database 
@@ -227,11 +227,11 @@ Server used for:
 - [x] Save spatial data indirectly by Desktop GIS
 - [x] Save spatial data directly by User interaction
 
-Server used functionalities:
+Server functionalities:
 
 - [x] Basic service sets as WFS and WMS
 - [x] Allow apply a filter in Spatial Things
-- [ ] Allow executing operations as Intersect, Contains, and others
+- [ ] Allow executing operations as Intersect, Contains, and others between multiple spatial things
 - [x] Allow reprojection by changing a parameter on URI
 - [x] Contains a uniform URI organization adopting web semantic links 
 - [x] Support basic data formats as Shapefile, GeoTIFF, CSV, KML, Spatial Database 
@@ -251,11 +251,11 @@ Server used for:
 - [x] Save spatial data indirectly by Desktop GIS
 - [x] Save spatial data directly by User interaction
 
-Server used functionalities:
+Server functionalities:
 
 - [x] Basic service sets as WFS and WMS
 - [x] Allow apply a filter in Spatial Things
-- [ ] Allow executing operations as Intersect, Contains, and others
+- [ ] Allow executing operations as Intersect, Contains, and others between multiple spatial things
 - [x] Allow reprojection by changing a parameter on URI
 - [x] Contains a uniform URI organization adopting web semantic links 
 - [x] Support basic data formats as Shapefile, GeoTIFF, CSV, KML, Spatial Database 
@@ -275,11 +275,11 @@ Server used for:
 - [x] Save spatial data indirectly by Desktop GIS
 - [x] Save spatial data directly by User interaction
 
-Server used functionalities:
+Server functionalities:
 
 - [x] Basic service sets as WFS and WMS
 - [x] Allow apply a filter in Spatial Things
-- [ ] Allow executing operations as Intersect, Contains, and others
+- [ ] Allow executing operations as Intersect, Contains, and others between multiple spatial things
 - [x] Allow reprojection by changing a parameter on URI
 - [x] Contains a uniform URI organization adopting web semantic links 
 - [x] Support basic data formats as Shapefile, GeoTIFF, CSV, KML, Spatial Database 
@@ -299,11 +299,11 @@ Server used for:
 - [ ] Save spatial data indirectly by Desktop GIS
 - [ ] Save spatial data directly by User interaction
 
-Server used functionalities:
+Server functionalities:
 
 - [ ] Basic service sets as WFS and WMS
 - [ ] Allow apply a filter in Spatial Things
-- [ ] Allow executing operations as Intersect, Contains, and others
+- [ ] Allow executing operations as Intersect, Contains, and others between multiple spatial things
 - [ ] Allow reprojection by changing a parameter on URI
 - [ ] Contains a uniform URI organization adopting web semantic links 
 - [ ] Support basic data formats as Shapefile, GeoTIFF, CSV, KML, Spatial Database 
@@ -323,11 +323,11 @@ Server used for:
 - [x] Save spatial data indirectly by Desktop GIS
 - [x] Save spatial data directly by User interaction
 
-Server used functionalities:
+Server functionalities:
 
 - [x] Basic service sets as WFS and WMS
 - [x] Allow apply a filter in Spatial Things
-- [ ] Allow executing operations as Intersect, Contains, and others
+- [ ] Allow executing operations as Intersect, Contains, and others between multiple spatial things
 - [x] Allow reprojection by changing a parameter on URI
 - [x] Contains a uniform URI organization adopting web semantic links 
 - [x] Support basic data formats as Shapefile, GeoTIFF, CSV, KML, Spatial Database 
@@ -347,11 +347,11 @@ Server used for:
 - [ ] Save spatial data indirectly by Desktop GIS
 - [ ] Save spatial data directly by User interaction
 
-Server used functionalities:
+Server functionalities:
 
 - [ ] Basic service sets as WFS and WMS
 - [ ] Allow apply a filter in Spatial Things
-- [ ] Allow executing operations as Intersect, Contains, and others
+- [ ] Allow executing operations as Intersect, Contains, and others between multiple spatial things
 - [ ] Allow reprojection by changing a parameter on URI
 - [ ] Contains a uniform URI organization adopting web semantic links 
 - [ ] Support basic data formats as Shapefile, GeoTIFF, CSV, KML, Spatial Database 
@@ -371,11 +371,11 @@ Server used for:
 - [ ] Save spatial data indirectly by Desktop GIS
 - [ ] Save spatial data directly by User interaction
 
-Server used functionalities:
+Server functionalities:
 
 - [ ] Basic service sets as WFS and WMS
 - [ ] Allow apply a filter in Spatial Things
-- [ ] Allow executing operations as Intersect, Contains, and others
+- [ ] Allow executing operations as Intersect, Contains, and others between multiple spatial things
 - [ ] Allow reprojection by changing a parameter on URI
 - [ ] Contains a uniform URI organization adopting web semantic links 
 - [ ] Support basic data formats as Shapefile, GeoTIFF, CSV, KML, Spatial Database 
@@ -394,11 +394,11 @@ Server used for:
 - [ ] Save spatial data indirectly by Desktop GIS
 - [ ] Save spatial data directly by User interaction
 
-Server used functionalities:
+Server functionalities:
 
 - [ ] Basic service sets as WFS and WMS
 - [ ] Allow apply a filter in Spatial Things
-- [ ] Allow executing operations as Intersect, Contains, and others
+- [ ] Allow executing operations as Intersect, Contains, and others between multiple spatial things
 - [ ] Allow reprojection by changing a parameter on URI
 - [ ] Contains a uniform URI organization adopting web semantic links 
 - [ ] Support basic data formats as Shapefile, GeoTIFF, CSV, KML, Spatial Database 
@@ -417,11 +417,11 @@ Server used for:
 - [ ] Save spatial data indirectly by Desktop GIS
 - [ ] Save spatial data directly by User interaction
 
-Server used functionalities:
+Server functionalities:
 
 - [ ] Basic service sets as WFS and WMS
 - [ ] Allow apply a filter in Spatial Things
-- [ ] Allow executing operations as Intersect, Contains, and others
+- [ ] Allow executing operations as Intersect, Contains, and others between multiple spatial things
 - [ ] Allow reprojection by changing a parameter on URI
 - [ ] Contains a uniform URI organization adopting web semantic links 
 - [ ] Support basic data formats as Shapefile, GeoTIFF, CSV, KML, Spatial Database 
@@ -441,11 +441,11 @@ Server used for:
 - [x] Save spatial data indirectly by Desktop GIS
 - [x] Save spatial data directly by User interaction
 
-Server used functionalities:
+Server functionalities:
 
 - [x] Basic service sets as WFS and WMS
 - [x] Allow apply a filter in Spatial Things
-- [ ] Allow executing operations as Intersect, Contains, and others
+- [ ] Allow executing operations as Intersect, Contains, and others between multiple spatial things
 - [x] Allow reprojection by changing a parameter on URI
 - [x] Contains a uniform URI organization adopting web semantic links 
 - [x] Support basic data formats as Shapefile, GeoTIFF, CSV, KML, Spatial Database 
@@ -465,11 +465,11 @@ Server used for:
 - [ ] Save spatial data indirectly by Desktop GIS
 - [ ] Save spatial data directly by User interaction
 
-Server used functionalities:
+Server functionalities:
 
 - [ ] Basic service sets as WFS and WMS
 - [ ] Allow apply a filter in Spatial Things
-- [ ] Allow executing operations as Intersect, Contains, and others
+- [ ] Allow executing operations as Intersect, Contains, and others between multiple spatial things
 - [ ] Allow reprojection by changing a parameter on URI
 - [ ] Contains a uniform URI organization adopting web semantic links 
 - [ ] Support basic data formats as Shapefile, GeoTIFF, CSV, KML, Spatial Database 
@@ -489,11 +489,11 @@ Server used for:
 - [x] Save spatial data indirectly by Desktop GIS
 - [x] Save spatial data directly by User interaction
 
-Server used functionalities:
+Server functionalities:
 
 - [x] Basic service sets as WFS and WMS
 - [x] Allow apply a filter in Spatial Things
-- [ ] Allow executing operations as Intersect, Contains, and others
+- [ ] Allow executing operations as Intersect, Contains, and others between multiple spatial things
 - [x] Allow reprojection by changing a parameter on URI
 - [x] Contains a uniform URI organization adopting web semantic links 
 - [x] Support basic data formats as Shapefile, GeoTIFF, CSV, KML, Spatial Database 
