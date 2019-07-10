@@ -40,3 +40,28 @@ Server Functionalities:
 - [ ] Can generate data as Geojson that can be requested in chunks by paging 
 - [ ] Can title WFS and WMS
 - [ ] Can search between multiple spatial things
+
+
+
+### Modelo
+|Identificador do GIS: [ID] | Tipo de ação GIS: - [IN ou OUT]|
+|----------------------------------------------|----------------------------------------------|
+|Nome do Servidor de Mapas: [Nome do servidor utilizado] | Versão do Servidor de Mapas: [Versão do servidor]|
+
+Servidor usado para:
+
+ - [ ] Salvar dados espaciais indiretamente por Web GIS
+ - [ ] Salvar dados espaciais indiretamente pelo Desktop GIS
+ - [ ] Salvar dados espaciais diretamente pela interação do usuário
+
+Funcionalidades do servidor:
+
+ - [ ] Conjuntos de serviços básicos como WFS e WMS
+ - [ ] Permitir aplicar um filtro em Spatial Things
+ - [ ] Permitir a execução de operações como Intersect, Contains e outros
+ - [ ] Permitir reprojeção alterando um parâmetro no URI
+ - [ ] Contém uma organização de URI uniforme adotando links semânticos da Web
+ - [ ] Suporta formatos básicos de dados como Shapefile, GeoTIFF, CSV, KML, Banco de Dados Espacial
+ - [ ] Pode gerar dados como Geojson que podem ser solicitados em pedaços por paginação
+ - [ ] Pode título WFS e WMS
+ - [ ] Pode pesquisar entre várias coisas espaciais
