@@ -38,7 +38,7 @@ Server Functionalities:
 - [ ] Contains a uniform URI organization adopting web semantic links 
 - [ ] Support basic data formats as Shapefile, GeoTIFF, CSV, KML, Spatial Database 
 - [ ] Can generate data as Geojson that can be requested in chunks by paging 
-- [ ] Can title WFS and WMS
+- [ ] Can tile WFS and WMS
 - [ ] Can search between multiple spatial things
 
 
@@ -63,5 +63,5 @@ Funcionalidades do servidor:
  - [ ] Contém uma organização de URI uniforme adotando links semânticos da Web
  - [ ] Suporta formatos básicos de dados como Shapefile, GeoTIFF, CSV, KML, Banco de Dados Espacial
  - [ ] Pode gerar dados como Geojson que podem ser solicitados em pedaços por paginação
- - [ ] Pode título WFS e WMS
+ - [ ] Pode tile WFS e WMS
  - [ ] Pode pesquisar entre várias coisas espaciais
